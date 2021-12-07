@@ -1,0 +1,2 @@
+# OrangeHRM
+Orange HRM offers a comprehensive HR management system to suit all business HR needs which can also be customized according to the requirements. It offers starter and advanced version for its clients. The starter version is a free and open-source platform while the advanced version is a paid offering for SMEs and large enterprises.Junit, TestNG ,BDD using Gherkin and Cucumber, Apache POI, Properties file framework are used.
